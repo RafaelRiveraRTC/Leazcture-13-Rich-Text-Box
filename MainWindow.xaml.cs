@@ -19,6 +19,17 @@ namespace Leazcture_13_Rich_Text_Box
         public MainWindow()
         {
             InitializeComponent();
+
+           
+            //Main Window
         }
+
+        private void AddButton_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        //Class
     }
+    //Name Space
 }
